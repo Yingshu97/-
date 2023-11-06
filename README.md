@@ -1,4 +1,4 @@
-# -
+# Multimodal Model And Large Multimodal Model
 大语言模型综述
 
 一些在往期可能合适综述投稿的会议（或期刊）
