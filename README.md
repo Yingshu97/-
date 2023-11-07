@@ -1,5 +1,22 @@
 # Multimodal Model And Large Multimodal Model
-大语言模型综述
+
+<font size=5><center><b> Table of Contents </b> </center></font>
+- [Multimodal Model And Large Multimodal Model](#multimodal-model-and-large-multimodal-model)
+  - [Awesome Papers](#awesome-papers)
+    - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
+- [相关会议](#相关会议)
+---
+
+## Awesome Papers
+
+### Multimodal Instruction Tuning
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**](https://arxiv.org/pdf/2311.03354.pdf) | arXiv | 2023-11-06 | [Coming soon]() | - |
+
+
+
+# 相关会议
 
 一些在往期可能合适综述投稿的会议（或期刊）
 
